@@ -1,6 +1,6 @@
 {
-  "name": "sileo-vue",
-  "version": "0.1.0",
+  "name": "sileo-vue3",
+  "version": "0.1.7",
   "description": "Toast notifications for Vue 3 with gooey SVG animations and spring physics. Zero config, just works.",
   "type": "module",
   "main": "./dist/sileo-vue.umd.js",
